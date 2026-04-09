@@ -1,0 +1,193 @@
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/jpeg" href="https://res.cloudinary.com/dbc6tihw1/image/upload/v1711609802/484572438_971815318422480_2820434675311835023_n_1_kl9pyl.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>La Casita - Muebles y Hogar</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              amber: {
+                400: '#EEB91C',
+                500: '#D4A017',
+              },
+              navy: {
+                800: '#1e293b',
+                900: '#0f172a',
+                950: '#020617',
+              }
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+      /* Custom scrollbar for Navy/Gold theme */
+      ::-webkit-scrollbar {
+        width: 10px;
+        height: 10px;
+      }
+      ::-webkit-scrollbar-track {
+        background: #0f172a; /* Navy track */
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #EEB91C; /* Gold #EEB91C */
+        border-radius: 5px;
+        border: 2px solid #0f172a;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #D4A017; /* Darker Gold */
+      }
+      /* Custom animations for modal */
+      @keyframes fadeInModal {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+      @keyframes fadeOutModal {
+        from { opacity: 1; }
+        to { opacity: 0; }
+      }
+      @keyframes scaleUp {
+        from { transform: scale(0.95); opacity: 0; }
+        to { transform: scale(1); opacity: 1; }
+      }
+      @keyframes scaleDown {
+        from { transform: scale(1); opacity: 1; }
+        to { transform: scale(0.95); opacity: 0; }
+      }
+      .animate-fadeInModal { animation: fadeInModal 0.3s ease-out forwards; }
+      .animate-fadeOutModal { animation: fadeOutModal 0.3s ease-out forwards; }
+      .animate-scaleUp { animation: scaleUp 0.3s ease-out forwards; }
+      .animate-scaleDown { animation: scaleDown 0.3s ease-out forwards; }
+
+      /* Animation for view changes */
+      @keyframes fadeInView {
+        from { opacity: 0; transform: translateY(1rem); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      .animate-view-change { animation: fadeInView 0.4s ease-out forwards; }
+
+      /* Staggered entry animations */
+      @keyframes slideUpFadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(20px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+      .animate-slideUpFadeIn {
+        animation: slideUpFadeIn 0.6s ease-out forwards;
+        opacity: 0; /* Start hidden */
+      }
+      
+      /* Animation for filter button glow (Gold) */
+      @keyframes pulse-glow {
+        0%, 100% { box-shadow: 0 0 8px rgba(238, 185, 28, 0.2); }
+        50% { box-shadow: 0 0 16px rgba(238, 185, 28, 0.5); }
+      }
+      .animate-pulse-glow {
+        animation: pulse-glow 2.5s infinite ease-in-out;
+      }
+
+      /* Animation for voice search input glow */
+      @keyframes pulse-gold-glow {
+        0%, 100% { 
+          box-shadow: 0 0 8px rgba(238, 185, 28, 0.3); 
+          border-color: rgba(238, 185, 28, 0.5); 
+        }
+        50% { 
+          box-shadow: 0 0 16px rgba(238, 185, 28, 0.6); 
+          border-color: rgba(238, 185, 28, 1);
+        }
+      }
+      .animate-pulse-gold-glow {
+        animation: pulse-gold-glow 2s infinite ease-in-out;
+      }
+
+      /* Animation for idle logo pulse */
+      @keyframes idle-pulse {
+        0%, 100% {
+          transform: scale(1);
+          filter: drop-shadow(0 0 2px rgba(238, 185, 28, 0.2));
+        }
+        50% {
+          transform: scale(1.03);
+          filter: drop-shadow(0 0 8px rgba(238, 185, 28, 0.5));
+        }
+      }
+      .animate-idle-pulse {
+        animation: idle-pulse 2.5s infinite ease-in-out;
+      }
+
+      /* Animation for call button ripple effect */
+      @keyframes pulse-red-ripple {
+        0% {
+          transform: scale(1);
+          box-shadow: 0 0 0 0 rgba(185, 28, 28, 0.4);
+        }
+        70% {
+          transform: scale(1.03);
+          box-shadow: 0 0 0 10px rgba(185, 28, 28, 0);
+        }
+        100% {
+          transform: scale(1);
+          box-shadow: 0 0 0 0 rgba(185, 28, 28, 0);
+        }
+      }
+      .animate-pulse-red-ripple {
+        animation: pulse-red-ripple 2s infinite ease-in-out;
+      }
+
+      /* Professional glow for gold buttons */
+      @keyframes pulse-professional-glow {
+        0%, 100% {
+          transform: scale(1);
+          box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(238, 185, 28, 0.3);
+        }
+        50% {
+          transform: scale(1.05);
+          box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 0 15px rgba(238, 185, 28, 0.6);
+        }
+      }
+      .animate-pulse-professional-glow {
+        animation: pulse-professional-glow 2.5s infinite ease-in-out;
+      }
+
+      .font-playfair {
+        font-family: 'Playfair Display', serif;
+      }
+      
+      .shadow-text {
+        text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.27.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "@vitejs/plugin-react": "https://aistudiocdn.com/@vitejs/plugin-react@^5.1.0",
+    "vite": "https://aistudiocdn.com/vite@^7.1.12",
+    "@netlify/functions": "https://aistudiocdn.com/@netlify/functions@^5.0.1"
+  }
+}
+</script>
+</head>
+  <body class="bg-slate-50">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>
