@@ -419,7 +419,7 @@
       "name": "KLIK 110",
       "description": "Una motocicleta ágil y económica, ideal para la movilidad urbana.",
       "longDescription": "La KLIK 110 es la solución perfecta para desplazarte por la ciudad con facilidad. Su diseño compacto y su motor eficiente la convierten en una opción práctica y económica para el día a día.",
-      "price": 9490,
+      "price": 9990,
       "category": "motos-freedom",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763256318/KLIK_110_xrzhxe.jpg"
     },
@@ -428,7 +428,7 @@
       "name": "SUPER LIFE R 150, Pasola",
       "description": "Comodidad y estilo en una pasola moderna y funcional.",
       "longDescription": "La SUPER LIFE R 150 conbina la comodidad de una pasola con un diseño deportivo. Ideal para quienes buscan un transporte práctico sin sacrificar el estilo. Cuenta con amplio espacio de almacenamiento y una conducción suave.",
-      "price": 10490,
+      "price": 10990,
       "category": "motos-freedom",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763256334/SUPER-LIFE-R-150-ROJA-DIAGONAL-DELANTERA_lac8rx.jpg"
     },
@@ -437,7 +437,7 @@
       "name": "FXR 150L Todo Terreno",
       "description": "Aventura sin límites con esta motocicleta todo terreno.",
       "longDescription": "Diseñada para conquistar cualquier camino, la FXR 150L es una motocicleta todo terreno robusta y confiable. Su suspensión de largo recorrido y sus neumáticos de alto agarre te permitirán explorar nuevos horizontes con total seguridad.",
-      "price": 10490,
+      "price": 11240,
       "category": "motos-freedom",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763256415/descarga_zb8gok.jpg"
     },
@@ -446,7 +446,7 @@
       "name": "CRII 210",
       "description": "Potencia y diseño deportivo para los amantes de la velocidad.",
       "longDescription": "La CRII 210 destaca por su agresivo diseño deportivo y su potente motor. Es una motocicleta que ofrece una experiencia de conducción emocionante, ideal para la carretera y para quienes buscan adrenalina en cada viaje.",
-      "price": 12490,
+      "price": 13290,
       "category": "motos-freedom",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763256441/CRII_210_p7uxwd.jpg"
     },
@@ -464,7 +464,7 @@
       "name": "Swich 150cc",
       "description": "Versatilidad y diseño moderno para la ciudad y más allá.",
       "longDescription": "La Swich 150cc es una motocicleta versátil que se adapta a tus necesidades. Con un diseño moderno y un motor de 150cc, ofrece un excelente equilibrio entre agilidad para la ciudad y capacidad para escapadas de fin de semana.",
-      "price": 12490,
+      "price": 13290,
       "category": "motos-freedom",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763256479/SWICH_ah5vt8.png"
     },
@@ -473,7 +473,7 @@
       "name": "Holkan 160",
       "description": "Una motocicleta con carácter, que conbina estilo y rendimiento.",
       "longDescription": "La Holkan 160 es para quienes buscan destacar. Su diseño único y su sólido rendimiento la convierten en una opción atractiva y diferente. Disfruta de una conducción cómoda y un estilo que no pasa desapercibido.",
-      "price": 13490,
+      "price": 14290,
       "category": "motos-freedom",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763256494/HOLKAN_160_sevswn.png"
     },
