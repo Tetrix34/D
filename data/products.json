@@ -1607,9 +1607,27 @@
       "name": "Ropero Colonial Oliver 3 Piezas",
       "description": "Ropero elegante de 3 piezas con diseño colonial.",
       "longDescription": "Aporta un toque de distinción a tu dormitorio con el Ropero Colonial Oliver de 3 piezas. Su diseño clásico y construcción robusta ofrecen una solución de alinacenamiento anplia y elegante.",
+      "price": 5349,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1775840842/Gemini_Generated_Image_z0nxtxz0nxtxz0nx_mlak6o.png"
+    },
+    {
+      "id": 253,
+      "name": "Ropero 3 Piezas Oliver",
+      "description": "Diseño colonial clásico en un conjunto de 3 piezas.",
+      "longDescription": "El Ropero 3 Piezas Oliver combina la elegancia tradicional con una gran capacidad de almacenamiento. Fabricado con materiales de alta calidad, es la pieza perfecta para quienes buscan un estilo atemporal y funcional en su dormitorio.",
       "price": 5299,
       "category": "roperos",
-      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243283/ROPERO_COLONIAL_OLIVER_placeholder.png"
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1775840842/Gemini_Generated_Image_ubrsykubrsykubrs_smina9.png"
+    },
+    {
+      "id": 254,
+      "name": "Ropero Malibu 8C Slash 3 piezas",
+      "description": "Modernidad y espacio con el Ropero Malibu de 3 piezas.",
+      "longDescription": "El Ropero Malibu 8C Slash de 3 piezas ofrece un diseño contemporáneo y una organización superior. Con ocho amplios compartimentos y un acabado elegante, es ideal para mantener tu vestuario ordenado con un toque de estilo moderno.",
+      "price": 5499,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1775840843/Gemini_Generated_Image_51wqhm51wqhm51wq_mjaj2p.png"
     },
     {
       "id": 237,
