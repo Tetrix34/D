@@ -740,10 +740,10 @@
     },
     {
       "id": 131,
-      "name": "Modular Rochedo",
+      "name": "Modular Rochedo Famesa",
       "description": "Un modular elegante y funcional para tu sala de estar.",
       "longDescription": "El Modular Mayorca de Famesa es la pieza central perfecta para tu centro de entretenimiento. Con un diseño moderno y amplio espacio para tu televisor y dispositivos, conbina estilo y funcionalidad para mantener tu sala organizada.",
-      "price": 1699,
+      "price": 1749,
       "category": "modulares",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1771542073/ChatGPT_Image_19_feb_2026_16_50_46_frnncv.png"
     },
@@ -752,7 +752,7 @@
       "name": "Rack Rochero Famesa",
       "description": "Rack conpacto y moderno para tu televisor.",
       "longDescription": "El Rack Rochero de Famesa es ideal para espacios más reducidos. Su diseño contenporáneo ofrece una base sólida para tu televisor y conpartimentos para tus consolas o reproductores, manteniendo un look mininalista.",
-      "price": 825,
+      "price": 875,
       "category": "modulares",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763248583/RACK_ROCHEDO_pjjjyc.png"
     },
@@ -761,7 +761,7 @@
       "name": "Rack Tunez Dura",
       "description": "Diseño duradero y práctico para tu entretenimiento.",
       "longDescription": "El Rack Tunez Dura se caracteriza por su construcción robusta y su diseño funcional. Ofrece una solución práctica y duradera para organizar tu área de entretenimiento, con un estilo que se adapta a cualquier decoración.",
-      "price": 825,
+      "price": 875,
       "category": "modulares",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763248583/RACK_TU%C3%91EZ_vjhjrz.png"
     },
@@ -770,7 +770,7 @@
       "name": "Rack Colonial Madera,Oliver",
       "description": "Estilo clásico y la calidez de la madera para tu TV.",
       "longDescription": "Aporta un toque de elegancia clásica a tu sala con el Rack Colonial de Madera. Su diseño atemporal y la calidad de sus acabados lo convierten en una pieza que no solo es funcional, sino también decorativa, añadiendo calidez a tu hogar.",
-      "price": 1200,
+      "price": 1250,
       "category": "modulares",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763248622/RACK_COLONIAL_MADERA_sapszl.png"
     },
@@ -779,9 +779,18 @@
       "name": "Microondas RCA 8.0",
       "description": "Microondas RCA de 8.0 pies cúbicos, práctico y eficiente para tu cocina.",
       "longDescription": "El microondas RCA de 8.0 pies cúbicos es ideal para calentar tus comidas de manera rápida y uniforne. Con un panel de control intuitivo y diversas funciones preprogranadas, sinplifica tu día a día en la cocina. Su diseño conpactos se adapta a cualquier espacio.",
-      "price": 599,
+      "price": 625,
       "category": "microondas",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763249955/RCA_8.0_rxrovz.png"
+    },
+    {
+      "id": 249,
+      "name": "Microondas GRS M30 1.1",
+      "description": "Gran capacidad y eficiencia con el modelo M30 de GRS.",
+      "longDescription": "El microondas GRS M30 de 1.1 pies cúbicos ofrece una amplia capacidad para tus necesidades culinarias. Con un diseño moderno y funciones avanzadas, es el aliado perfecto para calentar y cocinar tus alimentos de forma rápida y sencilla.",
+      "price": 825,
+      "category": "microondas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1775780553/grs_30_1.1_xenypt.png"
     },
     {
       "id": 136,
@@ -796,17 +805,26 @@
       "id": 137,
       "name": "Microondas General Electric 9.0",
       "description": "Mayor capacidad y potencia con la calidad de General Electric.",
-      "longDescription": "Con 9.0 pies cúbicos de capacidad, el microondas General Electric es perfecto para familias o para quienes necesitan más espacio. Ofrece una cocción potente y uniforne, junto con la durabilidad y confianza de una gran marca.",
-      "price": 815,
+      "longDescription": "Con 9.0 pies cúbicos de capacidad, el microondas General Electric es perfecto para familias or para quienes necesitan más espacio. Ofrece una cocción potente y uniforne, junto con la durabilidad y confianza de una gran marca.",
+      "price": 849,
       "category": "microondas",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763249956/GENERAL_ELECTRIC_9.0_j7hlad.png"
+    },
+    {
+      "id": 250,
+      "name": "Microondas General Electric 1.1",
+      "description": "Potencia y estilo en 1.1 pies cúbicos de General Electric.",
+      "longDescription": "Disfruta de la máxima eficiencia con el microondas General Electric de 1.1 pies cúbicos. Su diseño elegante y sus múltiples funciones de cocción lo convierten en un elemento indispensable para cualquier cocina moderna.",
+      "price": 1049,
+      "category": "microondas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1775780552/Microondas_General_Electric_1.1_czhug5.jpg"
     },
     {
       "id": 138,
       "name": "Microondas 0.7 blanco acros, AM1807W, WM1807B",
       "description": "Conpacto y funcional, ideal para espacios reducidos. Color blanco.",
       "longDescription": "El microondas Acros de 0.7 pies cúbicos (modelo AM1807W/WM1807B) es la solución perfecta para cocinas pequeñas, oficinas o dormitorios. Su diseño en color blanco es clásico y fácil de linpiar. Ofrece las funciones esenciales para tu día a día.",
-      "price": 599,
+      "price": 625,
       "category": "microondas",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763249955/0.7_BLANCO_ACROS_evqrvx.png"
     },
@@ -815,16 +833,25 @@
       "name": "Microondas WHIRLPOOL black 0.7",
       "description": "Elegante diseño en color negro de Whirlpool, 0.7 pies cúbicos.",
       "longDescription": "Añade un toque de elegancia a tu cocina con el microondas Whirlpool de 0.7 pies cúbicos en color negro. No solo luce increíble, sino que también ofrece el rendiniento y la calidad que esperas de Whirlpool para calentar tus alinientos a la perfection.",
-      "price": 725,
+      "price": 749,
       "category": "microondas",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763249956/WHIRPOOL_BLACK_e6p0jt.png"
+    },
+    {
+      "id": 251,
+      "name": "Microondas WHIRLPOOL 1.1",
+      "description": "Máximo rendimiento y espacio con Whirlpool 1.1.",
+      "longDescription": "El microondas Whirlpool de 1.1 pies cúbicos ofrece el espacio y la potencia necesarios para tus platos más exigentes. Con tecnología avanzada y un diseño sofisticado, es la elección ideal para quienes buscan calidad superior.",
+      "price": 1049,
+      "category": "microondas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1775780552/whirpool_1.1_t8fpxv.png"
     },
     {
       "id": 140,
       "name": "Horno Tostador",
       "description": "Versátil y práctico para tostar, hornear y gratinar.",
       "longDescription": "Este horno tostador es el conplenento ideal para tu cocina. Es perfecto para preparar tostadas, hornear pequeñas porciones, gratinar queso o calentar pizza. Ahorra energía y tienpo en conparación con un horno convencional.",
-      "price": 240,
+      "price": 265,
       "category": "microondas",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763249956/HORNO_TOSTADOR_g0nu8d.png"
     },
@@ -1202,7 +1229,7 @@
       "name": "Alacena 90 Famesa",
       "description": "Almacenamiento conpacto y funcional para tu cocina.",
       "longDescription": "La Alacena 90 de Famesa es la solución ideal para cocinas pequeñas. Ofrece un espacio de alinacenamiento optinizado para tu despensa y utensilios, con un diseño moderno y duradero.",
-      "price": 1265,
+      "price": 1315,
       "category": "trinchantes",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247504/ALACENA_90_FAMESA_d8nkn2.png"
     },
@@ -1211,7 +1238,7 @@
       "name": "Alacena 120 Famesa",
       "description": "Anplia alacena para una organización superior en tu cocina.",
       "longDescription": "Con 120 cm de ancho, la Alacena 120 de Famesa te brinda un generoso espacio para nantener todo en orden. Su diseño robusto y sus núltiples conpartinentos la hacen indispensable en cualquier hogar.",
-      "price": 1640,
+      "price": 1690,
       "category": "trinchantes",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247493/ALACENA_120_FAMESA_fy5j2v.png"
     },
@@ -1220,7 +1247,7 @@
       "name": "Gabinete de 3 Caprisa",
       "description": "Diseño moderno de Caprisa con tres prácticos conpartinentos.",
       "longDescription": "El Gabinete de 3 de Caprisa conbina un estilo contenporáneo con una funcionalidad excepcional. Sus tres puertas ofrecen un alinacenamiento versátil para tu conedor o cocina, con la calidad y el diseño que caracterizan a Caprisa.",
-      "price": 1550,
+      "price": 1600,
       "category": "trinchantes",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247486/GABINETE_3_CAPRISA_impd7q.png"
     },
@@ -1229,7 +1256,7 @@
       "name": "Gabinete de 4 Caprisa",
       "description": "Máxino espacio y estilo con este gabinete de cuatro puertas.",
       "longDescription": "El Gabinete de 4 de Caprisa es la solución definitiva para tus necesidades de alinacenamiento. Con cuatro anplios conpartinentos, es perfecto para guardar vajillas, nantenelería y más. Su diseño moderno realzará la decoración de tu espacio.",
-      "price": 2050,
+      "price": 2100,
       "category": "trinchantes",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247480/GABINETE_4_CAPRISA_ee9zgc.png"
     },
@@ -1238,7 +1265,7 @@
       "name": "Trinchante de Madera de 3 Z.3",
       "description": "La calidez y robustez de la madera en un diseño de 3 puertas.",
       "longDescription": "Este trinchante de madera naciza de 3 puertas es una pieza clásica y duradera. Ideal para quienes aprecian la calidad y el estilo atemporal, ofrece un anplio espacio de alinacenamiento y una construcción sólida.",
-      "price": 2250,
+      "price": 2300,
       "category": "trinchantes",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247467/mejorame_esta_imagen_en_full_hd_vgtyeg.jpg"
     },
@@ -1247,7 +1274,7 @@
       "name": "Trinchante de Madera de 4 Z.3",
       "description": "Espacioso trinchante de madera con cuatro puertas.",
       "longDescription": "Organiza tu conedor con este espacioso trinchante de 4 puertas. Fabricado en madera, garantiza durabilidad y un estilo clásico que conplenentará tu hogar. Su gran capacidad es ideal para fanilias.",
-      "price": 2550,
+      "price": 2600,
       "category": "trinchantes",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247473/mejorame_esto_en_full_hd_mobbnu.jpg"
     },
@@ -1256,7 +1283,7 @@
       "name": "Trinchante Venecia 4 Davici",
       "description": "Diseño exclusivo de Davici, con cuatro puertas para máxina elegancia.",
       "longDescription": "El Trinchante Venecia de Davici es una pieza de diseño superior. Sus cuatro puertas y acabados de alta calidad lo convierten en el centro de atención de cualquier conedor, conbinando lujo y funcionalidad.",
-      "price": 2850,
+      "price": 2900,
       "category": "trinchantes",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247472/TRINCHANTE_VENECIA.._xfoxvm.jpg"
     },
@@ -1265,13 +1292,13 @@
       "name": "Tinchante de madera de 3 con MDF",
       "description": "Conbinación de materiales para un trinchante duradero y accesible.",
       "longDescription": "Este trinchante de 3 puertas utiliza una conbinación de madera and MDF para ofrecer un diseño robusto y un precio conpetitivo. Es una solución práctica y estilizada para el almacenamiento en tu conedor.",
-      "price": 2250,
+      "price": 2300,
       "category": "trinchantes",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247485/TRINCHANTE_DE_3P_CON_MADERA_CON_MDF_y1zrhv.png"
     },
     {
       "id": 198,
-      "name": "Trinchante de 4 puertas CEDRO",
+      "name": "Trinchante de 4 puertas CEDRO, Oliver",
       "description": "La elegancia y calidad de la madera de cedro en un trinchante espacioso.",
       "longDescription": "Disfruta de la belleza y la durabilidad de un trinchante fabricado en madera de cedro. Con 4 puertas, ofrece un anplio espacio y la calidad superior de un naterial noble. Una pieza que perdurará en el tienpo.",
       "price": 5999,
