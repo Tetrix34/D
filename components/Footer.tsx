@@ -4,7 +4,7 @@ import React from 'react';
 export const Footer: React.FC = React.memo(() => {
     // Usamos versiones más estables y directas para evitar problemas de carga
     const visaLogo = "https://res.cloudinary.com/dbc6tihw1/image/upload/v1771549909/dfd_uwi94k.png";
-    const mastercardLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/400px-Mastercard-logo.svg.png";
+    const mastercardLogo = "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mastercard_2019_logo.svg";
     
     return (
         <footer className="bg-slate-950 mt-12 py-10 border-t border-slate-800 shadow-inner">
