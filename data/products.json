@@ -392,16 +392,16 @@
       "name": "EPIC TV 65 SMGQ",
       "description": "Pantalla gigante de 65 pulgadas con tecnología QLED para colores perfectos.",
       "longDescription": "El EPIC TV de 65 pulgadas con tecnología QLED lleva la calidad de imagen al máximo nivel. Disfruta de mil millones de colores, un brillo espectacular y un contraste inigualable. Una experiencia visual que te dejará sin aliento.",
-      "price": 3999,
+      "price": 4499,
       "category": "televisores",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713142303/EPIC_uohna0.png"
     },
     {
       "id": 83,
-      "name": "EPIC TV 75 SMG",
-      "description": "El cine en tu casa con esta masiva pantalla Smart de 75 pulgadas.",
-      "longDescription": "Transforma tu sala en un cine privado con el EPIC TV de 75 pulgadas. Su tamaño monumental y su calidad de imagen 4K te ofrecen una inmersión total. Ideal para los verdaderos amantes del cine y los deportes.",
-      "price": 5499,
+      "name": "EPIC TV 75 SMGQ",
+      "description": "El cine en tu casa con esta masiva pantalla Smart de 75 pulgadas y tecnología QLED.",
+      "longDescription": "Transforma tu sala en un cine privado con el EPIC TV de 75 pulgadas con tecnología QLED. Su tamaño monumental y su calidad de imagen 4K te ofrecen una inmersión total. Ideal para los verdaderos amantes del cine y los deportes.",
+      "price": 6099,
       "category": "televisores",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713142303/EPIC_uohna0.png"
     },
@@ -455,9 +455,45 @@
       "name": "Spitzer 250",
       "description": "Rendimiento superior y tecnología avanzada en un diseño aerodinámico.",
       "longDescription": "La Spitzer 250 es una motocicleta de alto rendimiento que conbina un potente motor de 250cc con un diseño aerodinámico y tecnología de punta. Perfecta para quienes buscan velocidad, control y un estilo inconfundible.",
-      "price": 17990,
+      "price": 16990,
       "category": "motos-freedom",
       "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763256460/Spitzer_250_j00rih.jpg"
+    },
+    {
+      "id": 301,
+      "name": "CR1 150",
+      "description": "Potencia y estilo en una motocicleta urbana de alto rendimiento.",
+      "longDescription": "La CR1 150 está diseñada para quienes buscan eficiencia y potencia en sus recorridos diarios. Con un motor confiable y un diseño ergonómico, es la compañera ideal para la ciudad.",
+      "price": 11490,
+      "category": "motos-freedom",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1778030630/CR1_150_c9pbot.png"
+    },
+    {
+      "id": 302,
+      "name": "TUNNING 125",
+      "description": "Estilo personalizado y agilidad para moverte con libertad.",
+      "longDescription": "La TUNNING 125 destaca por su diseño único y su gran maniobrabilidad. Ideal para quienes quieren expresar su estilo mientras se desplazan con agilidad por el tráfico urbano.",
+      "price": 8790,
+      "category": "motos-freedom",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1778030631/TUNNING_125_heszrz.png"
+    },
+    {
+      "id": 303,
+      "name": "FIRE 125",
+      "description": "Robustez y potencia en cada viaje.",
+      "longDescription": "La FIRE 125 es una motocicleta construida para durar. Su motor eficiente y su estructura resistente la hacen perfecta tanto para el trabajo como para el transporte diario.",
+      "price": 10740,
+      "category": "motos-freedom",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1778030630/FIRE_125_ubutam.png"
+    },
+    {
+      "id": 304,
+      "name": "CR 4N250",
+      "description": "Dureza y rendimiento excepcional en 250cc.",
+      "longDescription": "La CR 4N250 es una máquina potente diseñada para quienes exigen lo máximo de su motocicleta. Con un motor de 250cc y componentes de alta calidad, ofrece un rendimiento superior en cualquier terreno.",
+      "price": 16990,
+      "category": "motos-freedom",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1778030631/CR_4N_250_at6out.png"
     },
     {
       "id": 90,
